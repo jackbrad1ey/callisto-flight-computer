@@ -1,0 +1,24 @@
+## Altium Designer
+# various Altium files
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+__Previews
+*.PrjPcbStructure
+*.Dat
+*.REP 
+*.TLT
+*.LOG
+*.log
+*.htm
+*.$$$
+# useless dirs
+Project\ Outputs
+Project\ Logs
+Project Outputs for*
+# history
+History
+
+## Misc
+# ignore OS X desktops
+.DS_Store
